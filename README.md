@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm an Avionics Systems Engineer 👋
 
-<!--
-**rehansen-gh/rehansen-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Starting with a Bachelor of Science in Electrical Engineering from the University of Florida, I've been working in the avionics industry with over 40 years of experience designing and integrating advanced technology for telecommunications, aerospace, and defense.
 
-Here are some ideas to get you started:
+## ⚡ Technical Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Inertial Navigation Systems (INS)**
+- **Global Positioning System (GPS)**
+- **Fiber Optic & Digital Communication Systems**
+- **Secure Cryptographic Systems**
+
+## 🛠️ Engineering Strengths
+
+- Requirements Analysis & Management
+- Systems Architecture
+- Electrical & Software Design
+- System Qualification
+- Transition to Production
+- Always looking for new and better ways to solve challenges; still learning every day
+
+## 🌱 Community & Leadership
+
+I'm committed to helping our future generations succeed and have volunteered as:
+- Cub Scout leader
+- Youth soccer coach
+- FIRST LEGO League middle-school robotics coach
+
+---
+
+Thanks for stopping by!
+
